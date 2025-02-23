@@ -5,7 +5,6 @@ Orbito Research AI is an independent project aimed at analyzing and fully solvin
 
 ## Features
 - **Fully precomputed game tree solution**
-- **Instant decision-making with no real-time search required**
 - **AI vs. Human, AI vs. AI gameplay simulation**
 - **No machine learning, neural networks, or tree search involved**
 

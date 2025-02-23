@@ -40,7 +40,7 @@ This project is an **independent research initiative** and is **not affiliated w
 This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for more details.
 
 ## Contributors
-- **Your Name** - Developer & Researcher
+- **tripta9527** - Developer & Researcher
 
 Contributions and feedback are welcome! Feel free to open an issue or submit a pull request.
 

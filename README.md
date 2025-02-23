@@ -29,7 +29,7 @@ Then, access the game interface at `http://localhost:8080`.
 
 ## Game Rules
 For a detailed explanation of Orbito's rules, please refer to the official video provided by **FLEXIQ**:
-- [Official Orbito Gameplay Video](https://www.youtube.com/watch?v=P2r2LGyHrk4)
+- [Official Orbito Gameplay Video](https://flexiqgames.com/en/product/orbito/)
 
 This project does **not** include a full reproduction of the official rulebook but rather implements the gameplay logic based on publicly available information.
 

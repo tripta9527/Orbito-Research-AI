@@ -395,7 +395,6 @@
             for(let i=0;i<spinableStates.length;i++){
                 const next_num = stateToNumber(spinableStates[i]);
                 const next_info = getBoardState(next_num);
-                console.log(next_info);
                 nextMoveIndex[next_info[0]-1].push(i);
                 nextMoveDepth[next_info[0]-1].push(next_info[1]);
             }

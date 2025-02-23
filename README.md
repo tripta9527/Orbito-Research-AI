@@ -8,6 +8,11 @@ Orbito Research AI is an independent project aimed at analyzing and fully solvin
 - **AI vs. Human, AI vs. AI gameplay simulation**
 - **No machine learning, neural networks, or tree search involved**
 
+## Play Online
+You can play the AI-powered Orbito game directly in your browser:
+
+🔗 [Play Now](https://tripta9527.github.io/Orbito-Research-AI/)
+
 ## Installation and Usage
 ### 1. Clone the Repository
 ```sh
